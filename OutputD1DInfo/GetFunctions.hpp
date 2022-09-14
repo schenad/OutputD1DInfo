@@ -3,7 +3,8 @@
 
 #include <iostream>
 #include <fstream>
-#include <string>
+#include <string.h>
+#include <cstring>
 #include <stdlib.h>
 #include <math.h>
 #include <unistd.h>

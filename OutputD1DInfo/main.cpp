@@ -20,7 +20,7 @@ int main(){
 
     vector<string> files;
     getFiles(cwd, files);                 //Get file names of all files in current folder
-    printf("Remaning following files in the current directory: \n%s\n\n",cwd);
+    printf("Remaining following files in the current directory: \n%s\n\n",cwd);
 
     string D1Dfiles[MAX_NUM_OF_FILES];    //Filter out all the .D1D files
     int numofD1D = 0;
